@@ -1,0 +1,20 @@
+*{margin: 0;padding: 0;font-size: 14px;}
+ul,li{list-style: none;}
+a{text-decoration: none;color: #FF6A00;}
+.head{width: 980px;margin: 0 auto;overflow: hidden;height: 80px;}
+.head img{float: left;}
+.head p{float: right;margin-top: 40px;}
+.head p a{display: inline;width: 50px;height: 22px;background: #FF6A00;float: right;text-align: center;color: #fff;margin-left:5px ;}
+.content{background: #ccc;padding: 50px 0;}
+.reg{width: 980px;margin: 10px auto;background: #fff;}
+.top{text-align: center;font-size: 22px;color: #FF6A00;height: 54px;line-height: 54px;border-bottom: 1px solid #FF6A00;}
+.reg_cont{width: 400px;padding: 40px;margin: 0 auto;}
+.reg_cont ul li{margin-bottom: 25px;border: 1px solid #ccc;height: 40px;line-height: 40px;padding: 0px 6px;position: relative;}
+.reg_cont ul li i{position: absolute;top: 33px;display: none;}
+.reg_cont input{border: 0;padding: 0px 6px;width: 350px;height: 40px;line-height: 40px;overflow: hidden;color: #333;margin-left: 2px; cursor: text;font-size: 14px;background: none;outline: none;}
+.cap{overflow: hidden;padding-bottom: 25px;position: relative;}
+.cap i{position: absolute;display: none;top: 45px;}
+#cap{width: 80px;float: left;border: 1px solid #ccc;text-align: center;}
+#caps{width: 80px;height:42px;float: left;border: 1px solid #ccc;text-align: center;margin-left: 30px;}
+.registry{width: 100%;height: 40px;background: #FF6A00;line-height: 40px;text-align: center;color: #fff;margin: 0 auto;}
+.max{margin:10px 0 0 10px;float: left;}

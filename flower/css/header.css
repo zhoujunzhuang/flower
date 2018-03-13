@@ -1,0 +1,29 @@
+@charset "utf-8";
+*{margin: 0;padding: 0;list-style: none;text-decoration: none;font-size: 12px;	}
+a{color: #666;}
+.bg{background: #f5f5f5;}
+.h-top{width: 1200px;height: 40px;line-height: 40px;margin: 0 auto;}
+.top-l{float: left;}
+.top-l a:hover{color: rgb(255,0,0);}
+font{color: rgb(255,0,0);}
+.menu{float: right;}
+.menu a{margin-left: 30px;}
+.menu-hd{padding: 12px;}
+.h-top .menu-hd:hover{text-decoration: underline;background: #fff;}
+.top-l span{margin-left: 20px;}
+.top-r{float: right;}
+.top-r span{margin-left:25px;}
+.top-r span:hover{color: rgb(255,0,0);}
+.logo-search{width:1200px;height:80px;padding:20px 0px;margin: 0 auto;}
+.logo{width: 300px;height: 80px;background: url(../img/logo.gif) no-repeat left center;float: left;margin-right: 30px;}
+.logo-center{float: left;}
+.seek{overflow: hidden;margin-top: 10px;}
+.seek input{width: 422px;height: 26px;line-height26px;padding: 5px 0 5px 10px;float: left;}
+.seek-b{float: left;width:82px;height: 40px;text-align: center;line-height: 38px;background: #ff6a00;;}
+.seek-b a{color: #fff;font-size: 16px;}
+.hint{margin-top: 5px;}
+.hint a{margin-right: 10px;}
+.hint a:hover{color: rgb(255,0,0);}
+.call{float: right;margin-top: 10px;}
+.call p:nth-of-type(1){color: #ff6a00;font-size: 20px;height: 20px;line-height: 20px;}
+.spping i{margin: 5px;}

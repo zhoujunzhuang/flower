@@ -1,0 +1,28 @@
+@charset "utf-8";x
+*{margin: 0;padding: 0;}
+ul{list-style: none;}
+.nav-x{border-bottom:3px solid #ff6a00 ;}
+.nav{width:1200px;height:40px;margin: 0 auto;}
+.nav-l{float:left;position: relative;}
+.classify{float: left;width: 230px;height: 43px;line-height: 43px;background: #ff6a00;text-align: center;}
+.classify a{color: #fff;font-size: 14px;}
+.pn{font-size: 16px;font-weight: 600;color:#ff6a00 ;}
+.ul-one{position: absolute;top: 43px;z-index: 999;}
+.ul-one li{width: 230px;height: 73px;border-bottom:1px solid #e9e9e9;background: #fff;}
+.cateone{border-left: 2px solid #fff;height: 74px;}
+.cateone i{float: right;margin-right: 30px;}
+.pn{padding-left: 20px;padding-top:10px ;}
+.pm{padding: 15px 15px 0;}
+.pm span{color: #888;}
+.ul-one li:hover .cateone{border-left: 2px solid #ff6a00;background: #F5F5F5;position: absolute;width: 230px;}
+.ul-two{float: left;}
+.ul-two li{float: left;height: 40px;padding: 0 15px;line-height: 40px;font-weight: 600;background: ;}
+.ul-two li a{font-size: 16px;font-weight: 600;}
+.ul-two li:hover a{color: #ff6a00;}
+.slider{height: 444px;width: 100%;position: relative;}
+.slider ul{position: absolute;height: 444px;width: 100%;}
+.slider ul img{width:100%;height: 444px;display:block;}
+.slider ul li{position: absolute;width: 100%;}
+.circle{position: absolute;bottom: 0;left: 50%;display: block;}
+.circle span{display: inline-block;width: 20px;height: 20px;border-radius: 10px;background: black;}
+.circle .span1{background: #fff;}
